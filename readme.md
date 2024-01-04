@@ -71,7 +71,7 @@ Python is a widely used general-purpose, high-level programming language known f
 3. Run the Flask application.
 
 ```bash
-python app.py
+python run.py
 ```
 
 4. Access the tool through a web browser at [http://localhost:5000/](http://localhost:5000/).
